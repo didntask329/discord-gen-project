@@ -1,5 +1,6 @@
 module.exports = {
-    token: "Bot Token Here!",
+    token: "L
+    !",
     prefix: "/gen ",
     discord_server: "https://discord.gg/irylek"
 }

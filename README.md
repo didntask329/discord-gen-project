@@ -1,4 +1,4 @@
-# discord-gen-project
+# Irylek Gen Project
 A Discord Generator for you! - IrylekGen!
 
 Welcome to IrylekGen Project
